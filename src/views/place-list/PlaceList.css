@@ -1,0 +1,26 @@
+@import "~antd/dist/antd.css";
+.PlaceList {
+    width: 800px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 70vh;
+    background: #364d79;
+    /* background: white; */
+    overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+    color: #fff;
+}
+
+.site-layout-content {
+    background: #fff ;
+    padding: 24px;
+    min-height: 280px;
+}
